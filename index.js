@@ -2,7 +2,7 @@ let Discord = require("discord.js")
 let client = new Discord.WebhookClient('777930809100992513', 'r050yoHmgtA6x-zTM4UKSl7M6E3utTp2GEfDjtL5kgXncb_WwWefmw6qOoXuhqo_bVMo');
 let bot = new Discord.Client()
 
-bot.login("NzA3NjQwMDQxNjIyNzMyODkw.X7LONg.DyA3eANalvVdUgokJnjs0JJPx7k")
+bot.login("Nzc3OTcwOTUzOTQyMzM1NTUy.X9OjlQ.dDwUC0bw8soX2YvjXlyRVFrChEI")
 
 bot.on("ready",()=>console.log("Бот запущен и готов к работе!"))
 
